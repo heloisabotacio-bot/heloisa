@@ -1,17 +1,18 @@
+body {
+    max-width: 100ww;
+}
+
 header {
     background-color: #418d54;
     color: #FFFFFF;
     text-align: center;
-    max-width: 800px;
     margin: 0 auto;
     padding: 16px;
-    border: 5px solid #FFFFFF;
 }
 
 main {
     background-color: #b3dfbe;
     color: #064b0f;
-    max-width: 800px;
     margin: 0 auto;
     padding: 16px;
 }
